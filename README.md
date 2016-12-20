@@ -43,7 +43,7 @@ div {
     <h1 class="l">Welcome To The Mountains</h1>
     <p class="p">Explore and learn:
     <div></div>
-    <p><img src="mountain logo.jpg"</p>
+    <p><img src="mountain logo.jpg"></p>
 </body>
   
 </html>
